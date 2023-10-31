@@ -12854,7 +12854,7 @@ a.ui-button:active,
 /* 5.4 wpo-team-section */
 .wpo-contact-section-s2 {
   background: #f1f3ee;
-  padding-top: 120px;
+  padding-top: 30px;
 }
 
 @media (max-width: 991px) {
