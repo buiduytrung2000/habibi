@@ -572,7 +572,7 @@ a.ui-button:active,
 
 .wpo-section-title h2,
 .wpo-section-title-s2 h2 {
-  font-family: Sail;
+  font-family: "Dancing Script", cursive;
   font-size: 50px;
   font-weight: 400;
   margin: 0;
@@ -11103,6 +11103,7 @@ a.ui-button:active,
   font-weight: 400;
   line-height: normal;
   color: #fff;
+  font-family: "Dancing Script", cursive;
 }
 
 @media (max-width: 757px) {
