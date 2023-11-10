@@ -12282,6 +12282,8 @@ a.ui-button:active,
   font-style: normal;
   font-weight: 400;
   margin-bottom: 20px;
+  margin-top: 10px;
+  text-align: center;
 }
 
 @media (max-width: 1199px) {
@@ -12300,7 +12302,6 @@ a.ui-button:active,
 }
 
 .wpo-story-section-s2 .wpo-story-wrap .wpo-story-item .wpo-story-content p {
-  max-width: 488px;
   font-size: 19px;
   font-style: normal;
   font-weight: 400;
