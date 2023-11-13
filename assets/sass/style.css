@@ -27772,3 +27772,12 @@ a.ui-button:active,
   }
 }
 /*# sourceMappingURL=style.css.map */
+
+.thiepcuoi-img {
+  max-width: 60%;
+}
+@media (max-width: 991px) {
+  .thiepcuoi-img {
+    max-width: 100%;
+  }
+}
