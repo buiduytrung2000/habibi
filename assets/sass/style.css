@@ -27781,3 +27781,6 @@ a.ui-button:active,
     max-width: 100%;
   }
 }
+.wpo-story-content.wow.flipInX{
+  height: 100%;
+}
