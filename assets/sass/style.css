@@ -2242,11 +2242,11 @@ a.ui-button:active,
 }
 
 .navbar-header .navbar-brand {
-  font-size: 35px;
+  font-size: 40px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  font-family: "Sail", cursive;
+  font-family: "Great Vibes", cursive;
   color: #657150;
 }
 
@@ -27781,6 +27781,6 @@ a.ui-button:active,
     max-width: 100%;
   }
 }
-.wpo-story-content.wow.flipInX{
+.wpo-story-content.wow.flipInX {
   height: 100%;
 }
